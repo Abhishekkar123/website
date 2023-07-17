@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: 'What the hell is a blizzard?': Trump seemingly baffled at Dairy Queen on campaign trail | CNN Politics",
+            "description": "Former President Donald Trump stopped at a Dairy Queen in Iowa as part of his 2024 presidential campaign. CNN’s Abby Phillip and Politico White House reporter Eli Stokols discuss his attempt at “retail politics.”",
+            "url": "https://www.cnn.com/videos/politics/2023/07/09/trump-dairy-queen-iowa-2024-campaign-trail-ip-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230709114946-trump-dairy-queen.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-09T16:27:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABC News",
+            "title": "Zelenskyy to ABC: How Russia-Ukraine war could end, thoughts on US politics and Putin's weakness - ABC News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8vYWJjbmV3cy5nby5jb20vUG9saXRpY3MvemVsZW5za3l5LWFiYy1ydXNzaWEtdWtyYWluZS13YXItZW5kLXRob3VnaHRzLXVzL3N0b3J5P2lkPTEwMDkwMzI1NdIBZ2h0dHBzOi8vYWJjbmV3cy5nby5jb20vYW1wL1BvbGl0aWNzL3plbGVuc2t5eS1hYmMtcnVzc2lhLXVrcmFpbmUtd2FyLWVuZC10aG91Z2h0cy11cy9zdG9yeT9pZD0xMDA5MDMyNTU?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-07-09T15:04:34+00:00",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "msnbc",
+                "name": "MSNBC"
+            },
+            "author": "Anthea Butler",
+            "title": "How Moms for Liberty became a powerful force in the Republican Party",
+            "description": "Moms for Liberty is a new powerful force in Republican politics because it's using tactics and political strategies conservatives have used for decades.",
+            "url": "https://www.msnbc.com/opinion/msnbc-opinion/moms-for-liberty-republican-politics-rcna92395",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-07/230703-tina-descovich-jm-1657-70954a.jpg",
+            "publishedAt": "2023-07-08T13:08:27Z",
+            "content": "The members of Moms for Liberty who invaded Philadelphia on the weekend before July 4 called their gathering the Joyful Warriors National Summit, but as a scholar who attended the conference to get a… [+6887 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jay Peters",
+            "title": "Threads isn’t for news and politics, says Instagram’s boss",
+            "description": "Instagram boss Adam Mosseri has taken a stance on news and politics in Threads. In a conversation with Alex Heath, Mosseri says those topics “aren’t worth the scrutiny, negativity (let’s be honest), or integrity risks.”",
+            "url": "http://www.theverge.com/2023/7/7/23787334/instagram-threads-news-politics-adam-mosseri-meta-facebook",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/YavtHu47GBXbFJeKLrxkZwo474E=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24774110/STK156_Instagram_threads_1.jpg",
+            "publishedAt": "2023-07-07T18:16:37Z",
+            "content": "Threads isnt for news and politics, says Instagrams boss\r\nThreads isnt for news and politics, says Instagrams boss\r\n / Adam Mosseri ran Facebooks News Feed in 2016, and now he tells Alex Heath that p… [+2064 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Michael Cohen has warning for Donald Trump aide Walt Nauta | CNN Politics",
+            "description": "Former President Donald Trump’s attorney Michael Cohen weighs in on aide Walt Nauta pleading not guilty to multiple counts related to the mishandling of classified documents at Mar-a-Lago, including several obstruction and concealment-related charges.",
+            "url": "https://www.cnn.com/videos/politics/2023/07/07/michael-cohen-walt-nauta-advice-donald-trump-cpt-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230706214351-michael-cohen-cnn-primetime-vpx.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-07-07T02:01:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
